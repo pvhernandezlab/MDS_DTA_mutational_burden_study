@@ -58,9 +58,9 @@ cd MDS_DTA_mutational_burden_study
 
 For questions, collaboration inquiries, or discussion about the analysis, please contact:
 
-**Patricia Hernandez, MD**
-Molecular Genetic Pathology & Clinical Informatics  
-Email: pvhernandezlab@users.noreply.github.com
-GitHub: https://github.com/pvhernandezlab
+**Patricia Hernandez, MD** <br>
+Molecular Genetic Pathology & Clinical Informatics <br>  
+Email: pvhernandezlab@users.noreply.github.com <br>
+GitHub: https://github.com/pvhernandezlab <br>
 
 
