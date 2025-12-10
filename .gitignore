@@ -1,0 +1,35 @@
+# -----------------------
+# Ignoring PHI & local data
+# -----------------------
+local_data/
+*.xlsx
+*.csv
+
+# -----------------------
+# Jupyter notebook junk
+# -----------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.DS_Store
+
+# -----------------------
+# Python cache and temp
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.tmp
+
+# -----------------------
+# Log files
+# -----------------------
+*.log
+
+# -----------------------
+# Virtual environment folders
+# -----------------------
+venv/
+.venv/
+env/
