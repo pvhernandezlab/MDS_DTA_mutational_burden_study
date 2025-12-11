@@ -54,13 +54,8 @@ git clone git@github.com:pvhernandezlab/MDS_DTA_mutational_burden_study.git
 cd MDS_DTA_mutational_burden_study
 ```
 
-##  Contact
+##  Questions
 
-For questions, collaboration inquiries, or discussion about the analysis, please contact:
-
-**Patricia Hernandez, MD** <br>
-Molecular Genetic Pathology & Clinical Informatics <br>  
-Email: pvhernandezlab@users.noreply.github.com <br>
-GitHub: https://github.com/pvhernandezlab <br>
+If you have questions or run into any issues, please submit a GitHub issue with details of the cell output
 
 
